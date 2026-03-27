@@ -1,6 +1,6 @@
 # Student Management System API 🎓
 
-[![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/)
+[![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-green.svg)](https://spring.io/projects/spring-boot)
 [![Database](https://img.shields.io/badge/Database-H2%20%7C%20MS%20SQL-blue.svg)](https://www.microsoft.com/en-us/sql-server/)
 
