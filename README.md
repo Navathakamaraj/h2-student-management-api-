@@ -21,7 +21,7 @@ The application follows the standard Spring Boot request-response flow:
 3. **Repository Layer:** Communicates with the database using JPA/Hibernate.
 
 ## 🛠️ Tech Stack
-* **Backend:** Java 17, Spring Boot 3.x
+* **Backend:** Java 21, Spring Boot 3.x
 * **Security & Data:** Hibernate, Spring Data JPA
 * **Build Tool:** Maven
 * **Databases:** H2 (In-memory), Microsoft SQL Server
